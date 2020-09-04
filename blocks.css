@@ -1,0 +1,61 @@
+
+
+
+
+
+
+#one{
+border-style: solid;
+border-width: 25%;
+border-color:blue;
+margin-top: 100px;
+margin: 175px 25px 75px 750px;
+text-align: justify;
+height: 100px;
+  width: 25%;
+  position: absolute;
+}
+
+
+#two{
+border-style: solid;
+border-width: 25%;
+border-color:green;
+margin: 100px 50px 100px 750px;
+height: 100px;
+  width: 25%;
+}
+
+a:link {
+  color: white;
+  background-color: blue;
+  text-decoration: none;
+}
+
+
+#link{
+	margin: -350px 210px 400px 500px;
+}
+
+
+#three{
+border-style: solid;
+border-width: 25%;
+border-color:orange; 
+margin: -200px 10px 25px 100px;
+height: 100px;
+  width: 25%;
+  position: relative;
+  /*overflow: scroll;*/
+}
+
+
+#four{
+border-style: solid;
+border-width: 25%;
+border-color:yellow;
+margin: 75px 25px 75px 100px;
+height: 100px;
+  width: 25%;
+
+}
