@@ -6,7 +6,7 @@
 
 #one{
 border-style: solid;
-border-width: 25%;
+border-width: 5px;
 border-color:blue;
 margin-top: 100px;
 margin: 175px 25px 75px 750px;
@@ -19,7 +19,7 @@ height: 100px;
 
 #two{
 border-style: solid;
-border-width: 25%;
+border-width: 5px;
 border-color:green;
 margin: 100px 50px 100px 750px;
 height: 100px;
@@ -40,7 +40,7 @@ a:link {
 
 #three{
 border-style: solid;
-border-width: 25%;
+border-width: 5px;
 border-color:orange; 
 margin: -200px 10px 25px 100px;
 height: 100px;
@@ -52,10 +52,23 @@ height: 100px;
 
 #four{
 border-style: solid;
-border-width: 25%;
+border-width: 5px;
 border-color:yellow;
 margin: 75px 25px 75px 100px;
 height: 100px;
   width: 25%;
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
